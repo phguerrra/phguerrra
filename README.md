@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Pedro Henrique Guerra 👋</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação | Desenvolvedor em formação | Apaixonado por tecnologia
+  Estudante de Ciência da Computação | Desenvolvedor em formação 
 </p>
 
 ---
