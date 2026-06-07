@@ -12,7 +12,6 @@ Sou estudante de **Ciência da Computação na URI Santiago** e estou desenvolve
 
 Atualmente estou estudando e praticando desenvolvimento com foco em:
 
-- Front-end com HTML, CSS, JavaScript, React e Next.js
 - Back-end com Java e Spring Boot
 - Banco de dados com MySQL e PostgreSQL
 - APIs REST
@@ -67,18 +66,6 @@ Permite visualizar eventos, realizar reservas e acompanhar informações dos ing
 Sistema de irrigação automático utilizando sensor de umidade do solo e microcontrolador, com foco em economia de água e automação.
 
 🔗 Repositório: https://github.com/phguerrra/sistemaIrragacao
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=phguerrra&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phguerrra&layout=compact&theme=tokyonight)
-
-</div>
 
 ---
 
