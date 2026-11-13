@@ -2,7 +2,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,45:2563EB,100:9333EA&text=PEDRO%20HENRIQUE&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20IN%20PROGRESS&descAlignY=60&descSize=15&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,45:2563EB,100:9333EA&text=PEDRO%20GUERRA&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20IN%20PROGRESS&descAlignY=60&descSize=15&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hello%2C+World!;Welcome+to+my+digital+workspace;Building+ideas+with+code;Learning.+Creating.+Improving." />
 
@@ -148,7 +148,7 @@ A REST API developed with Spring Boot for managing events and participants.
 ---
 
 
-## <img src="https://img.shields.io/badge/05-CURRENT%20MISSION-2563EB?style=flat-square"/> Current Mission
+## <img src="https://img.shields.io/badge/04-CURRENT%20MISSION-2563EB?style=flat-square"/> Current Mission
 
 ```text
 ╔══════════════════════════════════════════════╗
@@ -165,7 +165,7 @@ A REST API developed with Spring Boot for managing events and participants.
 
 ---
 
-## <img src="https://img.shields.io/badge/06-ESTABLISH%20CONNECTION-8B5CF6?style=flat-square"/> Let's Connect
+## <img src="https://img.shields.io/badge/05-ESTABLISH%20CONNECTION-8B5CF6?style=flat-square"/> Let's Connect
 
 <div align="center">
 
