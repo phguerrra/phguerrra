@@ -1,13 +1,8 @@
 
-<!--
-  PEDRO HENRIQUE GUERRA
-  GitHub Profile README
-  Theme: Black / Blue / Purple
--->
-
+<!-- HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2563EB,50:7C3AED,100:111827&text=PEDRO%20HENRIQUE&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20IN%20PROGRESS&descAlignY=58&descSize=14&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,45:2563EB,100:9333EA&text=PEDRO%20HENRIQUE&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20IN%20PROGRESS&descAlignY=60&descSize=15&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hello%2C+World!;Welcome+to+my+digital+workspace;Building+ideas+with+code;Learning.+Creating.+Improving." />
 
@@ -16,15 +11,15 @@
 <a href="https://github.com/phguerrra">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
-<a href="https://www.linkedin.com/in/phguerrra/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=3B82F6"/>
+<a href="https://linkedin.com/in/phguerrra">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2563EB"/>
 </a>
 
 </div>
 
 ---
 
-<h2 align="center">🖥️ 01 // SYSTEM PROFILE</h2>
+## <img src="https://img.shields.io/badge/01-SYSTEM%20PROFILE-2563EB?style=flat-square"/> About Me
 
 ```yaml
 name: Pedro Henrique Guerra
@@ -32,210 +27,174 @@ location: Brazil 🇧🇷
 education: Computer Science Student @ URI Santiago
 role: Developer in Progress
 
-focus:
+interests:
   - Software Development
   - Backend Development
   - Database Systems
-  - Mobile Applications
+  - Technology & Innovation
 
 mindset: "Always learning, always building."
 ```
 
 ---
 
-<h2 align="center">⚡ 02 // TECH INVENTORY</h2>
+## <img src="https://img.shields.io/badge/02-TECH%20INVENTORY-8B5CF6?style=flat-square"/> Technologies & Tools
 
 <div align="center">
 
-**LANGUAGES**
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,js,ts&theme=dark" />
 
-<br/><br/>
-
-**FRAMEWORKS & DEVELOPMENT**
+**Frameworks & Development**
 
 <img src="https://skillicons.dev/icons?i=spring,nextjs,react,nodejs,android&theme=dark" />
 
-<br/><br/>
-
-**DATABASES & INFRASTRUCTURE**
+**Database & Infrastructure**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,docker,linux&theme=dark" />
 
-<br/><br/>
+**Tools**
 
-**TOOLS**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,clion&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm&theme=dark" />
 
 </div>
 
 ---
 
-<h2 align="center">🚀 03 // SELECTED BUILDS</h2>
+## <img src="https://img.shields.io/badge/03-SELECTED%20BUILDS-2563EB?style=flat-square"/> Featured Projects
 
 <details open>
-<summary><b>🔹 CampusHub — University Community App</b></summary>
+<summary><b>🎓 CampusHub — University Community App</b></summary>
 
 <br/>
 
-An Android application designed to connect university students with campus events and activities.
+An Android application designed to connect university students through campus events and activities.
 
-**Main features:**
-- User authentication.
-- Event creation and management.
-- Event registration and cancellation.
-- Favorites and comments.
-- Firebase integration.
+**Main Features**
+- User authentication
+- Event creation and management
+- Event registration and cancellation
+- Favorites and comments
+- Firebase integration
 
-**Technologies:**
+**Stack:** `Java` `Kotlin` `Android` `Firebase` `Firestore`
 
-`Java` `Kotlin` `Android` `Firebase` `Firestore`
-
-<br/>
-
-<a href="https://github.com/phguerrra/CampusHub">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+🔗 [View Repository](https://github.com/phguerrra/CampusHub)
 
 </details>
 
 <details open>
-<summary><b>🔹 SemSobra — Food Management System</b></summary>
+<summary><b>🍽️ SemSobra — Food Production Management</b></summary>
 
 <br/>
 
 An application focused on helping restaurants and buffets manage food production, leftovers and shortages.
 
-**Main features:**
-- Daily production management.
-- Food waste tracking.
-- Production history.
-- Demand planning.
-- Local data persistence.
+**Main Features**
+- Daily production management
+- Food waste tracking
+- Production history
+- Demand planning
+- Local data persistence
 
-**Technologies:**
+**Stack:** `Kotlin` `Java` `Jetpack Compose` `Room` `SQLite`
 
-`Kotlin` `Java` `Jetpack Compose` `Room` `SQLite`
-
-<br/>
-
-<a href="https://github.com/phguerrra/SemSobra">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+🔗 [View Repository](https://github.com/phguerrra/SemSobra)
 
 </details>
 
 <details open>
-<summary><b>🔹 Smart Organizer — Desktop File Organizer</b></summary>
+<summary><b>📁 Smart Organizer — File Organization</b></summary>
 
 <br/>
 
 A Python desktop application that automatically organizes files into folders based on file type and year.
 
-**Main features:**
-- Graphical user interface.
-- Automatic file organization.
-- File extension categorization.
-- Organization by year.
-- Automatic folder creation.
-- Organized file counter.
+**Main Features**
+- Graphical user interface
+- Automatic file organization
+- File extension categorization
+- Year-based folder organization
+- Automatic folder creation
 
-**Technologies:**
+**Stack:** `Python` `Tkinter` `OS` `Shutil` `Datetime`
 
-`Python` `Tkinter` `OS` `Shutil` `Datetime`
-
-<br/>
-
-<a href="https://github.com/phguerrra/Smart-Organizer">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+🔗 [View Repository](https://github.com/phguerrra/Smart-Organizer)
 
 </details>
 
 <details open>
-<summary><b>🔹 EventHubAPI — Event Management API</b></summary>
+<summary><b>🚀 EventHubAPI — Event Management System</b></summary>
 
 <br/>
 
-A REST API developed to manage events and participants, with authentication and administrative features.
+A REST API developed with Spring Boot for managing events and participants.
 
-**Main features:**
-- User authentication with JWT.
-- Event management.
-- Participant registration.
-- Registration approval and cancellation.
-- PostgreSQL integration.
+**Main Features**
+- User authentication with JWT
+- Event management
+- Participant registration
+- Registration approval and cancellation
+- Administrative features
+- PostgreSQL integration
 
-**Technologies:**
+**Stack:** `Java` `Spring Boot` `PostgreSQL` `JWT`
 
-`Java` `Spring Boot` `PostgreSQL` `JWT`
-
-<br/>
-
-<a href="https://github.com/phguerrra/EventHubAPI">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+🔗 [View Repository](https://github.com/phguerrra/EventHubAPI)
 
 </details>
 
 ---
 
-<h2 align="center">📊 04 // GITHUB COMMAND CENTER</h2>
+## <img src="https://img.shields.io/badge/04-GITHUB%20COMMAND%20CENTER-8B5CF6?style=flat-square"/> GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=phguerrra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=phguerrra&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phguerrra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phguerrra&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=phguerrra&bg_color=0D1117&color=3B82F6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=phguerrra&bg_color=0D1117&color=8B5CF6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-<h2 align="center">🎯 05 // CURRENT MISSION</h2>
-
-<div align="center">
+## <img src="https://img.shields.io/badge/05-CURRENT%20MISSION-2563EB?style=flat-square"/> Current Mission
 
 ```text
-╔══════════════════════════════════════════╗
-║                                          ║
-║   [ACTIVE] Computer Science              ║
-║   [BUILD]  Personal Projects              ║
-║   [LEARN]  New Technologies               ║
-║   [IMPROVE] Software Development          ║
-║                                          ║
-║   OBJECTIVE: Become a better developer.  ║
-║                                          ║
-╚══════════════════════════════════════════╝
+╔══════════════════════════════════════════════╗
+║                                              ║
+║   [ ACTIVE ] Computer Science Student        ║
+║   [ BUILD  ] Developing personal projects    ║
+║   [ LEARN  ] Exploring new technologies     ║
+║   [ IMPROVE ] Growing as a developer         ║
+║                                              ║
+║   OBJECTIVE: Build. Learn. Evolve.           ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 ```
-
-</div>
 
 ---
 
-<h2 align="center">🌐 06 // ESTABLISH CONNECTION</h2>
+## <img src="https://img.shields.io/badge/06-ESTABLISH%20CONNECTION-8B5CF6?style=flat-square"/> Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/phguerrra">
-  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
-<a href="https://www.linkedin.com/in/phguerrra/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=3B82F6"/>
+<a href="https://linkedin.com/in/phguerrra">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2563EB"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,50:2563EB,100:7C3AED" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:9333EA,55:2563EB,100:0D1117"/>
 
-**`01010000 01100101 01100100 01110010 01101111`**
-
-<sub>Thanks for visiting my digital workspace. See you in the next commit!</sub>
+<sub>Designed with curiosity, built with code.</sub>
 
 </div>
