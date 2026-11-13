@@ -147,21 +147,6 @@ A REST API developed with Spring Boot for managing events and participants.
 
 ---
 
-## <img src="https://img.shields.io/badge/04-GITHUB%20COMMAND%20CENTER-8B5CF6?style=flat-square"/> GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=phguerrra&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phguerrra&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=phguerrra&bg_color=0D1117&color=8B5CF6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
 
 ## <img src="https://img.shields.io/badge/05-CURRENT%20MISSION-2563EB?style=flat-square"/> Current Mission
 
