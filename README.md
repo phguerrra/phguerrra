@@ -1,185 +1,211 @@
 
 <div align="center">
 
-# Pedro Henrique Guerra
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090b,50:312e81,100:2563eb&text=Pedro%20Henrique%20Guerra&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Computer%20Science%20%7C%20Software%20Development&descAlignY=58&descSize=16" />
 
-### Computer Science Student | Software Developer
+<br/>
 
-*Building solutions, exploring technologies, and turning ideas into code.*
+### `Turning ideas into software.`
+
+I'm a Computer Science student who enjoys building applications, solving problems, and exploring how technology can make a difference.
 
 <br/>
 
 <a href="https://github.com/phguerrra">
-  <img src="https://img.shields.io/badge/GitHub-phguerrra-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-My%20Repositories-181717?style=for-the-badge&logo=github" />
 </a>
 <a href="https://www.linkedin.com/in/phguerrra/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `01` — Who Am I?
 
-I'm a **Computer Science student at URI Santiago, Brazil**, passionate about software development, technology, and problem-solving.
+```yaml
+name: Pedro Henrique Guerra
+location: Brazil
+education: Computer Science @ URI Santiago
+focus:
+  - Software Development
+  - Back-end Development
+  - Android Applications
+  - Database Systems
+  - Software Architecture
 
-I enjoy building applications, developing practical solutions, and exploring different areas of software engineering.
+mindset: "Learn. Build. Improve. Repeat."
+```
 
-- 🎓 Computer Science student at URI Santiago.
-- 💻 Interested in Back-end and Full-stack Development.
-- 📱 Developing Android applications.
-- 🔌 Working with REST APIs and database integration.
-- 🧠 Interested in software architecture and computer science.
-- 🌱 Constantly learning and improving my technical skills.
+I'm passionate about technology and software engineering. My experience comes from academic projects and personal initiatives involving web applications, mobile development, APIs, databases, and system integration.
+
+I believe the best way to learn is by building real projects and understanding the technology behind them.
 
 ---
 
-## 🛠️ Tech Stack
+## `02` — Tech Universe
 
-### Programming Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,js,ts" />
-</p>
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,js,ts&theme=dark" />
 
 ### Frameworks & Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nextjs,react,nodejs,android" />
-</p>
+<img src="https://skillicons.dev/icons?i=spring,nextjs,react,nodejs,android&theme=dark" />
 
-### Databases & Tools
+### Databases & Infrastructure
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,docker,git,github,linux,vscode,idea" />
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,docker,linux&theme=dark" />
 
----
+### Developer Tools
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 CampusHub
-
-An Android application designed to connect university students with academic and campus events.
-
-**Features:**
-- User registration and authentication.
-- Event creation and management.
-- Event enrollment and cancellation.
-- Favorites and bookmarks.
-- Comments and user interaction.
-
-**Technologies:**
-
-`Java` `Kotlin` `Android` `Firebase` `Cloud Firestore`
-
-[**View Repository →**](https://github.com/phguerrra/CampusHub)
-
-</td>
-<td width="50%" valign="top">
-
-### 🍽️ SemSobra
-
-An Android application for managing food production in restaurants and buffets, tracking leftovers and shortages, and supporting demand forecasting.
-
-**Features:**
-- Daily food production management.
-- Leftover and shortage tracking.
-- Historical data and analytics.
-- Demand forecasting.
-- Local data persistence.
-
-**Technologies:**
-
-`Java` `Kotlin` `Jetpack Compose` `Room` `SQLite`
-
-[**View Repository →**](https://github.com/phguerrra/SemSobra)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎟️ EventHubAPI
-
-An event management platform built with Java and Spring Boot.
-
-**Features:**
-- REST API.
-- JWT authentication.
-- Event and participant management.
-- Administrative permissions.
-- Database integration.
-
-**Technologies:**
-
-`Java` `Spring Boot` `PostgreSQL` `JWT`
-
-[**View Repository →**](https://github.com/phguerrra/EventHubAPI)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎫 ReClick
-
-A web application focused on event ticket reservations and management.
-
-**Features:**
-- Event browsing.
-- Ticket reservations.
-- Reservation management.
-- Event information.
-
-**Technologies:**
-
-`Web Development` `JavaScript`
-
-[**View Repository →**](https://github.com/phguerrra/ReClick)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/phguerrra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phguerrra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-</a>
-
-<a href="https://github.com/phguerrra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phguerrra&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" />
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+## `03` — Selected Projects
 
 <div align="center">
 
-<a href="https://github.com/phguerrra">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### 🎓 CampusHub
+**Connecting students through campus events.**
+
+</div>
+
+An Android application designed to bring university events closer to students, allowing them to discover activities, enroll, interact, and save their favorite events.
+
+- User authentication with Firebase.
+- Event creation and management.
+- Enrollment and cancellation.
+- Favorites and comments.
+- Cloud Firestore integration.
+
+<div align="center">
+
+`JAVA` `KOTLIN` `ANDROID` `FIREBASE`
+
+[**↗ Explore CampusHub**](https://github.com/phguerrra/CampusHub)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🍽️ SemSobra
+**Smarter food production. Less waste.**
+
+</div>
+
+An Android application designed for restaurants and buffets to manage food production, monitor leftovers and shortages, and support future demand planning.
+
+- Daily production management.
+- Food waste tracking and analytics.
+- Historical records.
+- Demand forecasting based on previous data.
+- Local database with Room and SQLite.
+
+<div align="center">
+
+`KOTLIN` `JAVA` `JETPACK COMPOSE` `ROOM` `SQLITE`
+
+[**↗ Explore SemSobra**](https://github.com/phguerrra/SemSobra)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎟️ EventHubAPI
+**Event management through a REST API.**
+
+</div>
+
+A back-end project built to manage events and participants, with authentication and administrative functionality.
+
+- RESTful API.
+- JWT authentication.
+- Event and participant management.
+- Administrative access control.
+- PostgreSQL integration.
+
+<div align="center">
+
+`JAVA` `SPRING BOOT` `POSTGRESQL` `JWT`
+
+[**↗ Explore EventHubAPI**](https://github.com/phguerrra/EventHubAPI)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎫 ReClick
+**A web experience for event reservations.**
+
+</div>
+
+A web application focused on event discovery and ticket reservation management.
+
+- Event browsing.
+- Ticket reservations.
+- Reservation management.
+
+<div align="center">
+
+[**↗ Explore ReClick**](https://github.com/phguerrra/ReClick)
+
+</div>
+
+---
+
+## `04` — GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=phguerrra&show_icons=true&hide_border=true&bg_color=09090b&title_color=818cf8&icon_color=60a5fa&text_color=cbd5e1" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phguerrra&layout=compact&hide_border=true&bg_color=09090b&title_color=818cf8&text_color=cbd5e1" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=phguerrra&bg_color=09090b&color=818cf8&line=3b82f6&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## `05` — Beyond the Code
+
+I see every project as an opportunity to learn something new.
+
+Whether it's developing an Android application, designing a database, building an API, or exploring computer architecture, I'm always looking for ways to improve as a developer.
+
+---
+
+<div align="center">
+
+## Let's Build Something Great.
+
+**Open to collaboration, learning, and new opportunities.**
+
+<br/>
+
 <a href="https://www.linkedin.com/in/phguerrra/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/phguerrra/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
-*Always learning, always building. 🚀*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2563eb,50:312e81,100:09090b" />
+
+<sub>Designed & built by Pedro Henrique Guerra · 2026</sub>
 
 </div>
